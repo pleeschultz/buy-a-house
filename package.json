@@ -1,0 +1,23 @@
+{
+  "name": "buy-a-house",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pleeschultz/buy-a-house.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pleeschultz/buy-a-house/issues"
+  },
+  "homepage": "https://github.com/pleeschultz/buy-a-house",
+  "devDependencies": {
+    "express": "^4.12.3",
+    "serve-static": "^1.9.2"
+  }
+}
